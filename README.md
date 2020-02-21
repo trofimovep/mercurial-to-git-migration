@@ -15,7 +15,7 @@ Change in script two fields: `path_to_git_export` and `path_to_hg_repo` and run 
 
 ## What problem you may have
 
-* On Windows it may be needed to run scrupt in git-console
+* On Windows it may be needed to run script in git-console
 * Depends on your OS it may be different path separator
 * Link (or version) to [fast export](https://github.com/frej/fast-export.git) may be invalid (can be fixed by founding of right version or download another version)
 * Closed branches will be active in git project
